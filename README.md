@@ -63,6 +63,8 @@ test_markdown1
 # 이미지 삽입
 `![사진이름](사진경로)`
 
+    - 예 : ![사진이름](/Images/1.jpg)
+
 >![Test](.\Images\1.jpg)
 
 >![Test1](https://github.com/earthconquer/test_markdown1/Images/1.jpg)
