@@ -66,3 +66,6 @@ test_markdown1
 >![Test](.\Images\1.jpg)
 
 >![Test1](https://github.com/earthconquer/test_markdown1/Images/1.jpg)
+
+>![Test2](/Images/1.jpg)
+
