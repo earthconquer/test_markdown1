@@ -64,3 +64,5 @@ test_markdown1
 `![사진이름](사진경로)`
 
 >![Test](.\Images\1.jpg)
+
+>![Test1](https://github.com/earthconquer/test_markdown1/Images/1.jpg)
