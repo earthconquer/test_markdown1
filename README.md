@@ -32,8 +32,15 @@ test_markdown1
 이건 링크 설명
 
 [Google] https://google.com
+
 [Naver] (https://naver.com "네이버로 이동(링크설명)")
+
 [Daum] (https://daum.net, "다음으로 이동(여기도 이동!)")
+
+
+
+
+
 
 
 > 두 문단으로 된 글을 인용합니다. 두 문단으로 된 글을 인용합니다. 두 문단으로 된 글을 인용합니다.
@@ -56,4 +63,4 @@ test_markdown1
 # 이미지 삽입
 `![사진이름](사진경로)`
 
->>![Test](\images\1.jpg)
+>![Test](.\Images\1.jpg)
